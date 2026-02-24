@@ -1,0 +1,5 @@
+membaca soal
+lalu memaparkan proses dari laundry del, ketentuan yang berlaku dan jadwal pengambilan dan pengenbalian laundry
+membuat kode
+kode bisa dijalankan
+selsai

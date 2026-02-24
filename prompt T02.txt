@@ -1,0 +1,7 @@
+memahami soal
+memasukkan template soal Driver2.java
+memasukkan gambar png dari soal
+kode diberikan
+terdapat kesalahan dalam output
+memperbaiki kesalahan
+selesai
